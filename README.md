@@ -49,8 +49,8 @@
 
 ## 📌 Proyectos Personales
 
-* 🚀 **Coffee Cup: Software de Análisis Sensorial** Coffee Cup es una plataforma integral de software desarrollada a medida para el Área de Aseguramiento de Calidad de INDUSTRIA COLOMBIANA DE CAFÉ S.A.S. (Colcafé), cuyo propósito es centralizar, estandarizar y digitalizar de punta a punta la configuración, ejecución en tiempo real y análisis estadístico de las sesiones de evaluación sensorial de café (molido, soluble y mezclas) y sus derivados.
-* 🛠️ **[Appresso:](https://github.com/Nuke-SK/PROYECTO_APPRESSO)):** Software desarrollado para practicar fundamentos y bases de programación avanzada, entre ellas: Complejidad Big O, Ventanas deslizables, Automatización de pruebas de Software, Middlewares, Seguridad en EndPoints, Programación TypeScript, Hasheo de valores, Recursividad de codigo.
+* 🚀 **Coffee Cup: Software de Análisis Sensorial**: Coffee Cup es una plataforma integral de software desarrollada a medida para el Área de Aseguramiento de Calidad de INDUSTRIA COLOMBIANA DE CAFÉ S.A.S. (Colcafé), cuyo propósito es centralizar, estandarizar y digitalizar de punta a punta la configuración, ejecución en tiempo real y análisis estadístico de las sesiones de evaluación sensorial de café (molido, soluble y mezclas) y sus derivados.
+* 🛠️ **[Appresso](https://github.com/Nuke-SK/PROYECTO_APPRESSO):** Software desarrollado para practicar fundamentos y bases de programación avanzada, entre ellas: Complejidad Big O, Ventanas deslizables, Automatización de pruebas de Software, Middlewares, Seguridad en EndPoints, Programación TypeScript, Hasheo de valores, Recursividad de codigo.
 
 ---
 
